@@ -50,56 +50,56 @@ Azure Backup Service in Microsoft Azure ensures data resilience with automated, 
 **Storage service:**
 **Description:**
 Storage services encompass a range of solutions designed to store, organize, and manage data efficiently. These services can vary in terms of scalability, performance, accessibility, and features, catering to diverse requirements across industries. 
-[![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/c0e5b9bb-63d8-4e3c-894b-3fc22859e5a2)]
+![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/c0e5b9bb-63d8-4e3c-894b-3fc22859e5a2)
 
 **Blob service:**
 Blob service is a cloud-based storage service designed for the scalable storage of binary or text data, often in the form of files such as images, videos, documents, and backups. It provides a simple and flexible way to store and retrieve large amounts of unstructured data in the cloud. 
 
-[![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/305965c8-f620-453d-b39e-09d8b400554d)]
+![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/305965c8-f620-453d-b39e-09d8b400554d)
 
 **Containers:**
 Containers are a lightweight and portable form of virtualization that encapsulates an application and its dependencies, including libraries, runtime, and system tools, into a single, executable package. This package is called a container image. Containers provide a consistent and reproducible environment, ensuring that the application runs consistently across different computing environments, whether it be a developer's laptop, a test environment, or a production server.
 
-[![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/53c36dc8-8e0d-41dd-9ec1-97e479e8b243)]
+![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/53c36dc8-8e0d-41dd-9ec1-97e479e8b243)
 
 **Language service:**
 Language service descriptions play a crucial role in providing a clear understanding of the capabilities, features, and use cases of language-related services offered by cloud platforms like Azure. It plays a pivotal role in guiding developers, architects, and decision-makers in selecting, integrating, and utilizing language-related services effectively within their applications and projects.
 
-[![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/3318b863-dda0-4f66-a23a-b2b3266f241c)]
+![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/3318b863-dda0-4f66-a23a-b2b3266f241c)
 
-[![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/1b47fa23-fc89-464f-a1bf-1fe1acb87540)]
+![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/1b47fa23-fc89-464f-a1bf-1fe1acb87540)
 
-[![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/22af6ccb-51f9-4f75-95f2-8807ca76ced2)]
+![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/22af6ccb-51f9-4f75-95f2-8807ca76ced2)
 
-[![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/1fcf4219-36ac-4ba8-901f-f286dbd04152)]
+![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/1fcf4219-36ac-4ba8-901f-f286dbd04152)
 
-[![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/13779074-2b72-478c-a821-e94c01349833)]
+![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/13779074-2b72-478c-a821-e94c01349833)
 
 **Azure Chat bot:**
 The Azure AI Language Chatbot is a cutting-edge conversational agent powered by Microsoft's Azure platform. Leveraging advanced natural language processing capabilities, it facilitates dynamic and context-aware interactions. This intelligent chatbot employs machine learning algorithms to comprehend user queries, providing personalized responses and assistance across diverse domains. Seamlessly integrating with Azure services, it ensures scalability and reliability.
 
-[![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/0618ccf3-2e16-4fad-9e49-ce48dc46eb6b)]
+![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/0618ccf3-2e16-4fad-9e49-ce48dc46eb6b)
 
 **Azure Backup Service:**
 Azure Backup Service in Microsoft Azure ensures data resilience with automated, scalable backup solutions. Supporting virtual machines, applications, and files, it offers features like long-term retention and geo-redundancy. This service enhances overall data protection, enabling efficient disaster recovery and secure backup management in the Azure cloud environment.
 
-[![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/4d9f5e14-c4e4-4bcb-8c57-63496c1f9c69)]
+![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/4d9f5e14-c4e4-4bcb-8c57-63496c1f9c69)
 
-[![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/98fc1ea9-188e-4bbf-ab21-a3d03d1fbc1e)]
+![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/98fc1ea9-188e-4bbf-ab21-a3d03d1fbc1e)
 
 # Working Live Project Display:
 **Description:**
 Here I am attaching the final working website's screenshot for the reference.
 
-[![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/12b5daba-e0ee-4f47-95b1-5be371789911)]
+![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/12b5daba-e0ee-4f47-95b1-5be371789911)
 
-[![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/817aed27-7bcd-433b-8c00-50b1d6db04ec)]
+![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/817aed27-7bcd-433b-8c00-50b1d6db04ec)
 
-[![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/ee31af36-664f-4b5c-87c2-096593795d2e)]
+![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/ee31af36-664f-4b5c-87c2-096593795d2e)
 
 # Resource Visualizer:
 
-[![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/66f8eff3-a4ac-4f3b-be7e-6d7b086c56b1)]
+![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/66f8eff3-a4ac-4f3b-be7e-6d7b086c56b1)
 
 # Final Project Statement
 Our final project is an innovative online shopping website that redefines the retail experience. Seamlessly integrating cutting-edge technologies, it offers a user-friendly interface with advanced search and personalized accounts. Azure infrastructure ensures secure and scalable operations, while machine learning enhances product recommendations. Customers enjoy a secure checkout process and real-time order tracking. Augmented reality features enable virtual product trials, and social integration fosters community engagement. The platform prioritizes sustainability with eco-friendly packaging and leverages blockchain for secure transactions. Continuous evolution is our commitment, delivering a future-focused, immersive, and sustainable online shopping destination for discerning consumers.
