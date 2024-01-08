@@ -1,15 +1,15 @@
 # Project Title: The Demo
 # Project Team Members
-1.Kodinagula v v Satyanarayana swamy
-2.Thuma Kavya
-3.Gummula Venkatesh
-4.Edunuri Jeswanth 
+1. Kodinagula v v Satyanarayana swamy
+2. Thuma Kavya
+3. Gummula Venkatesh
+4. Edunuri Jeswanth
 # Introduction
 Welcome to our exciting ecommerce venture! Our project, "Demo  Ecommerce Shopping," is designed to redefine your online shopping experience. With a user-friendly interface, a vast array of products, and seamless navigation, we aim to make your shopping journey effortless and enjoyable. Stay tuned for a hassle-free and delightful way to explore and purchase your favirote e items!
 # Project Details
-1. Project Demo URL: https://aiwebappazure.azurewebsites.net/
-2. Demo Video URL: https://drive.google.com/file/d/1bLptg01EM3NtTRZY6j6X_FCmrwf_2TN9/view
-3. Github Repository URL: https://github.com/AnkeetaGupta/flask-ai-translation.git
+1. Project Demo URL: [https://ecommerce1234.z13.web.core.windows.net/]
+2. Demo Video URL: [https://youtu.be/3IQLOgZhILc]
+3. Github Repository URL: [https://github.com/Satyanaidu21/Mycode.git]
 4. Industry: E-Commerce
 # Azure Services Used
 # Core Azure Service:
