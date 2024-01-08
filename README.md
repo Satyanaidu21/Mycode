@@ -49,7 +49,8 @@ Azure Backup Service in Microsoft Azure ensures data resilience with automated, 
 # Screenshots:
 **Storage service:**
 **Description:**
-Storage services encompass a range of solutions designed to store, organize, and manage data efficiently. These services can vary in terms of scalability, performance, accessibility, and features, catering to diverse requirements across industries. 
+Storage services encompass a range of solutions designed to store, organize, and manage data efficiently. These services can vary in terms of scalability, performance, accessibility, and features, catering to diverse requirements across industries.
+
 ![image](https://github.com/Satyanaidu21/Mycode/assets/153513877/c0e5b9bb-63d8-4e3c-894b-3fc22859e5a2)
 
 **Blob service:**
